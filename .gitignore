@@ -1,0 +1,16 @@
+#dependencies
+node_api/node_modules/
+
+#environment secrets
+node_api/.env
+
+#os files
+.DS_Store
+Thumbs.db
+
+#python
+__pycache__/
+*.py[cod]
+
+#java
+*.class
